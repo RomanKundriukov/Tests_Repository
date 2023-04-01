@@ -1,0 +1,3 @@
+/media/anonim/Files/Projekts/cmake-build-debug/CMakeFiles/Projekts.dir
+/media/anonim/Files/Projekts/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/anonim/Files/Projekts/cmake-build-debug/CMakeFiles/rebuild_cache.dir
