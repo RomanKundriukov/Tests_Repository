@@ -247,8 +247,6 @@ void Backspace()
 
 int main()
 {
-    //SetConsoleOutputCP(CP_UTF8);
-
     KaffeeMachine KaffeeMachine;
 
     string Verbindung;
@@ -300,7 +298,5 @@ int main()
     Backspace();
 
     KaffeeMachine.Prüfen_Option_in_der_Kaffeemachine(Kaffee, Milch, Wasser);
-
-    //system("pause > nul");
     return 0;
 }
