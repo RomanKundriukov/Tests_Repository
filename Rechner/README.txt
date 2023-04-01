@@ -1,0 +1,1 @@
+Hier habe ich einen Consolerechner geschrieben. Ich möchtete nur zeigen wie und wass ich kann. Weiter werde ich meine nächste Arbeit in GitHub hochladen. Diese Programm habe ich in CLion gemacht. Ich bringe mich mit Ubuntu arbeiten bei.
