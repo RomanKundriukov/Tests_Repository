@@ -1,1 +1,0 @@
-Hier brachte ich mich class bei. Ich möchtete mit Getter und Setter arbeiten. 
