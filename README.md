@@ -1,1 +1,1 @@
-Das ist mein teste Repository, wo werde ich meine kleine Arbeit hochladen.
+Das ist mein erste Repository, wohin ich meine Projekte hochladen werde. Meine Projektre führe ich mit Microsoft Visual Studio in Windows und mit Code::Blocks in Linux Ubuntu durch. Mit GitHub arbeite ich mit GitKraken.
